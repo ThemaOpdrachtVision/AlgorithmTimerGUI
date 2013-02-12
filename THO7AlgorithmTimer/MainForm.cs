@@ -9,7 +9,7 @@ using System.Windows.Forms;
 using System.IO;
 using System.Diagnostics;
 
-namespace THO7AlgoritmTimerApplication
+namespace THO7AlgorithmTimerApplication
 {
     public partial class MainForm : Form
     {
